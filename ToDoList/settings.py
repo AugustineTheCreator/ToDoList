@@ -28,7 +28,8 @@ SECRET_KEY = 'django-insecure-x2#*9tppwq8^^3x4!u9*lz7+uzyq+2p-f6h8paphe1!!dnb6z8
 DEBUG = False
 
 ALLOWED_HOSTS = ['https://todolist-task-app.herokuapp.com',
-'localhost'
+'localhost',
+'http://127.0.0.1:8000/'
 ]
 
 
